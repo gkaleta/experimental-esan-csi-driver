@@ -468,4 +468,3 @@ To create a GitHub repository with this guide:
 
 ```
 
-You can copy and paste this content into a `README.md` file in your GitHub repository. This should provide a clear and structured guide for developing your e-SAN CSI driver.
