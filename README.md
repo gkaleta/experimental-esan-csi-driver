@@ -465,14 +465,7 @@ To create a GitHub repository with this guide:
 - [Kubernetes CSI Developer Documentation](https://kubernetes-csi.github.io/docs/developer-guide.html)
 - [CSI Sanity Testing Tool](https://github.com/kubernetes-csi/csi-test)
 
-## Contact Information
 
-For further assistance or questions:
-
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
-
-Happy coding!
 ```
 
 You can copy and paste this content into a `README.md` file in your GitHub repository. This should provide a clear and structured guide for developing your e-SAN CSI driver.
